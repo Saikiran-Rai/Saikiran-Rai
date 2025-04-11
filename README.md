@@ -4,7 +4,7 @@
 
 **Specialization:** Artificial Intelligence and Machine Learning
 
-**Passion:** Leveraging computer vision and deep learning to create innovative solutions.
+**Passion:** Leveraging computer vision and Machine learning to create innovative solutions.
 
 **Committed to:** Making a positive impact through technology.
 
